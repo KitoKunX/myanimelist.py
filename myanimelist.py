@@ -1,4 +1,5 @@
 #############################
+# MyAnimeList Data Module
 # Author: Kitokunx
 # Version: 0.7 (Incomplete)
 # Contact: kitokunxd@gmail.com
